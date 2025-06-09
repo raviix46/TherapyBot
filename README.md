@@ -1,7 +1,3 @@
-# TherapyBot-
-💬 AI-powered therapy chatbot with symptom checker and FAQ support.
-
-
 # 🧠 TherapyBot++ – Your AI Mental Wellness Companion
 
 Welcome to **TherapyBot++**, an all-in-one mental wellness assistant — thoughtfully crafted to:
