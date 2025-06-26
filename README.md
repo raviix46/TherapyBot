@@ -12,7 +12,7 @@ Welcome to **TherapyBot++**, an all-in-one mental wellness assistant — thought
 
 ## 🚀 Live Demo
 
-🔗 **Try it out:** [TherapyBot++ on Hugging Face Spaces](https://huggingface.co/spaces/raviix46/therapy-chatbot)
+🔗 **Try it out:** [TherapyBot++ on Hugging Face Spaces](https://huggingface.co/spaces/raviix46/Therapy-Bot)
 
 ---
 
